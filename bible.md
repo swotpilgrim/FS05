@@ -10,7 +10,7 @@ Twenty-seven-year-old PROJECT CASSANDRA operative Grace Harlow returns to Alaska
 
 Physical: 5'7", lean and work-hardened from pipeline maintenance. Short brown hair kept practical under wool cap. Weathered hands with permanent grease under fingernails. Dresses for function—Carhartt coveralls, thermal layers, steel-toed boots. Moves with mechanic's economy—no wasted motion.
 
-Background: Born in Fairbanks, 1952. Father was pipeline welder who died in construction accident when Grace was 19. Became maintenance mechanic to support herself—one of few women in the trade. Worked trans-Alaska pipeline since construction began, developed uncanny ability to predict equipment failures before they happened. Saved multiple crews from disasters by "knowing" machinery would fail minutes before it did. Couldn't explain it—just felt the wrongness in systems.
+Background: Born in Fairbanks, 1952. Father was pipeline welder who died in construction accident when Grace was 19. Became maintenance mechanic to support herself—one of few women in the trade. Developed uncanny ability to predict equipment failures before they happened. Saved multiple crews by "knowing" machinery would fail minutes before it did. Just felt the wrongness in systems.
 
 Uncle Thomas Harlow raised her after her father died. Ex-Army, worked as hunting guide in Denali region. Taught Grace wilderness survival, tracking, shooting. Disappeared two years ago on routine hunt, body found weeks later. Official ruling: bear attack. Grace examined the body—wounds were knife work, not claws. Location was wrong. Thomas knew bears too well to make fatal mistakes. She investigated quietly, found connections to a "trapper" Thomas had guided weeks before his death. No one believed her. Case closed.
 
@@ -18,9 +18,9 @@ Program recruitment: PROJECT CASSANDRA observed her after she predicted catastro
 
 Skills: Mechanical systems analysis (reads machinery like language), equipment failure prediction (feels wrongness before breakdowns), wilderness survival (Thomas's training), basic firearms proficiency (hunting rifles, familiar with pistols), cold weather operations (Alaska native), pattern recognition (PROJECT CASSANDRA weaponized it). Limited hand-to-hand combat—adequate but not expert. No espionage tradecraft before PROJECT CASSANDRA.
 
-Personality: Working-class blunt. Doesn't waste words. Suspicious of authority—saw how pipeline company covered up safety failures that killed her father. Loyal to people she trusts (Thomas, fellow mechanics, her handler when he proves straight). Competent and proud of it—had to fight for respect in male trade. Not warm or diplomatic. Gets job done. Carries two years of suppressed rage about Thomas's murder underneath professional surface.
+Personality: Working-class blunt. Doesn't waste words. Suspicious of authority—saw how pipeline company covered up safety failures that killed her father. Loyal to people she trusts. Had to fight for respect in male-dominated trade. Gets job done. Carries two years of suppressed rage about Thomas's murder underneath professional surface.
 
-Voice: Internal monologue is terse, observational. Notices mechanical details, environmental threats, people's tells. Thinks in troubleshooting mode—assess problem, identify solution, execute. Doesn't romanticize Alaska wilderness—it's home, but it kills careless people. Dark humor about danger. Swears casually (period-appropriate profanity). No literary pretension.
+Voice: Internal monologue is terse, observational. Notices mechanical details, environmental threats, people's tells. Thinks in troubleshooting mode—assess problem, identify solution, execute. Alaska wilderness is home, but it kills careless people. Dark humor, casual profanity, no literary pretension.
 
 Emotional wound: Thomas's unsolved murder. Grace knows the truth but couldn't prove it, couldn't get justice through official channels. When PROJECT CASSANDRA offers mission to eliminate The Trapper, she recognizes the name from her investigation. This is the man who killed Thomas. She takes the mission knowing it's personal revenge disguised as duty—but mission requires capture alive. Her vendetta conflicts with orders.
 
@@ -52,7 +52,7 @@ Why he's evil: Murdered Thomas Harlow slowly over three days after Thomas recogn
 
 **Location: Denali Region, Alaska, November 1979**
 
-Winter is coming hard. Temperatures dropping to 10 below zero at night, worse with wind chill. Landscape is brutal—endless wilderness of spruce forests, frozen rivers, granite canyons, glacial valleys. Snow accumulating daily. Visibility limited by weather. Darkness increasing (Alaska winter approaching—short days, long nights). This is kill-or-be-killed terrain where careless people die from exposure in hours.
+Winter is coming hard. Temperatures dropping to 10 below zero at night, worse with wind chill. Landscape is brutal—endless wilderness of spruce forests, frozen rivers, granite canyons, glacial valleys. Snow accumulating, visibility limited, darkness increasing. Kill-or-be-killed terrain where careless people die from exposure in hours.
 
 **Key Venues:**
 
@@ -64,7 +64,7 @@ Winter is coming hard. Temperatures dropping to 10 below zero at night, worse wi
 
 **Maintenance Station Omega** - Grace's forward operating base. Small heated building at pipeline mile marker 347. Contains emergency supplies, radio, bunks. She uses this to cache gear and warm up between tracking runs. Isolated—nearest human is 40 miles away.
 
-**Operational Geography:** Grace tracks The Trapper through wilderness using combination of PROJECT CASSANDRA intuition (predicting his movements), mechanical knowledge (identifying pipeline sabotage points), and wilderness skills (reading trail sign, predicting camp locations). Movement is on foot and snowmobile. Weather is operational enemy—limits visibility, creates exposure danger, covers tracks. The Trapper has home advantage (15 years in this terrain). Grace has knowledge advantage (pipeline infrastructure insider).
+**Operational Geography:** Grace tracks The Trapper using PROJECT CASSANDRA intuition, mechanical knowledge, and wilderness skills. Movement is on foot and snowmobile. Weather is operational enemy—limits visibility, creates exposure danger, covers tracks. The Trapper has home advantage. Grace has pipeline infrastructure knowledge.
 
 **1970s Period Details:** No satellite surveillance, no GPS, no cell phones. Communication via radio (limited range in mountains). Navigation by compass and map. Weapons are period-accurate (Winchester rifles, Colt .45 pistol, hunting knives). Clothing is functional wool and canvas, no modern synthetics. Pipeline is new (completed 1977)—still seen as engineering marvel and strategic asset. Cold War paranoia is real—Soviet sabotage is credible threat, not paranoia.
 
@@ -76,7 +76,7 @@ Winter is coming hard. Temperatures dropping to 10 below zero at night, worse wi
 
 **Actual Stakes:** Pipeline sabotage would rupture oil flow, cause environmental catastrophe (crude oil spill in wilderness), cripple American energy supply during oil crisis, hand Soviet Union major Cold War victory. Economically: billions in damage, months of supply disruption. Politically: proof of Soviet deep-cover network operating in US. Personally for Grace: The Trapper murdered Thomas—this is revenge opportunity disguised as duty.
 
-**Operational Constraints:** Grace is alone. No backup (Alaska station has minimal personnel, can't risk exposure). Limited supplies (what she can carry). Extreme weather (operational window closing as winter deepens). No extraction until mission complete—radio for pickup when target secured. Handler monitors via scheduled radio check-ins but can't provide support. If Grace is compromised, she's on her own.
+**Operational Constraints:** Grace is alone. No backup. Limited supplies. Extreme weather closing operational window. No extraction until mission complete—radio for pickup when target secured. Handler monitors via scheduled check-ins but can't provide support. If compromised, she's on her own.
 
 **Mission Complications:** Grace must prioritize—hunt The Trapper (capture alive per orders) or stop sabotage (disarm explosives before detonation). These objectives conflict when sabotage timeline accelerates. Disarming caches reveals her presence to The Trapper, eliminates stealth advantage. Focusing on capture risks pipeline destruction. Handler orders capture priority, but Grace makes tactical decision to secure explosives first—insubordination that saves pipeline but compromises hunter advantage.
 
@@ -96,7 +96,7 @@ The Trapper becomes aware he's burned. Changes from passive intelligence-gatheri
 
 ## Tone & Voice Guidelines
 
-**Hard-Boiled Wilderness Noir:** Narrative voice is Grace's internal monologue—terse, observational, mechanically-minded. She reads environment like troubleshooting broken equipment: assess, identify problem, execute solution. No romanticism about Alaska wilderness—it's beautiful and lethal, commands respect not sentiment. Dark humor about danger (gallows humor from working pipeline). Profanity is casual, period-appropriate (damn, hell, son of a bitch—not modern vulgarity).
+**Hard-Boiled Wilderness Noir:** Narrative voice is Grace's internal monologue—terse, observational, mechanically-minded. She reads environment like troubleshooting equipment: assess, identify problem, execute solution. Alaska wilderness is beautiful and lethal, commands respect not sentiment. Dark humor about danger. Period-appropriate profanity.
 
 **Pacing: Methodical with Explosive Punctuation:** Long stretches of tracking, survival, cold calculation interrupted by sudden violence. Mirrors Grace's work rhythm—hours of careful maintenance, then emergency crisis requiring instant response. Chapters alternate: tense stalking sequences, brief explosive action, aftermath assessment. Not breathless throughout—earned intensity.
 
@@ -132,9 +132,9 @@ Official systems failed Grace—police dismissed Thomas's murder as accident, CI
 
 **PROJECT CASSANDRA Origin:** CIA experiment begun 1974, recruiting women with documented predictive intuition. Theory: some individuals demonstrate consistent pattern recognition beyond normal cognitive processing—they "know" outcomes before logical analysis. Project tested if this ability could be trained for intelligence work (threat assessment, ambush prediction, asset evaluation).
 
-**Grace's Recruitment (1977):** After third documented incident of equipment failure prediction, CIA approached Grace. Offered explanation for ability she'd never understood—not luck or paranoia, legitimate cognitive skill. Training would weaponize it for national security. Grace accepted—pipeline work was brutal, she'd lost father to it, chance to use her "curse" for something beyond maintenance appealed. Also: steady pay, escape from dead-end work, adventure.
+**Grace's Recruitment (1977):** After third documented incident of equipment failure prediction, CIA approached Grace. Offered explanation for ability she'd never understood—legitimate cognitive skill, not luck. Training would weaponize it for national security. Grace accepted—pipeline work was brutal, chance to use her "curse" for something beyond maintenance appealed. Steady pay, escape from dead-end work, adventure.
 
-**Training Methodology:** Eighteen months at undisclosed facility. Pattern recognition exercises, predictive modeling under stress, psychological conditioning to trust gut instinct over logical analysis. Scenario training: identify threats in complex environments, predict human behavior patterns, forecast equipment/system failures. Grace excelled—her mechanical background gave her systems-thinking foundation, wilderness experience taught her environmental threat assessment. Graduated top of small class (PROJECT CASSANDRA only recruited 15 women total).
+**Training Methodology:** Eighteen months at undisclosed facility. Pattern recognition exercises, predictive modeling under stress, psychological conditioning to trust gut instinct. Scenario training: identify threats, predict behavior patterns, forecast system failures. Grace excelled—mechanical background gave systems-thinking foundation, wilderness experience taught threat assessment. Graduated top of class (PROJECT CASSANDRA recruited 15 women total).
 
 **Program Status (1979):** Controversial within CIA. Successes exist (Grace's cohort prevented two assassinations, identified mole in State Department), but program seems unscientific, hard to measure. Factions want it expanded, others want it shut down as pseudoscience. Grace's mission is high-profile test—solo operation with major stakes. Success validates program. Failure (especially if Grace compromises mission for personal reasons) provides ammunition for shutdown advocates.
 
